@@ -1,0 +1,8 @@
+streamlit
+openai
+requests
+python-dotenv
+streamlit-chat
+google-generativeai
+grpcio
+anthropic
