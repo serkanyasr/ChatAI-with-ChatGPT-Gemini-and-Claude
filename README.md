@@ -18,7 +18,7 @@ To run the project on your local machine, follow these steps:
 2. Navigate to the project directory:
 
     ```bash
-    cd ChatAI-Explorer
+    cd ChatAI-ChatGPT-Gemini-and-Claude
     ```
 
 3. Install the required dependencies:
