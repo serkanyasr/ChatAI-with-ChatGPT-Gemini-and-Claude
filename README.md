@@ -12,13 +12,13 @@ To run the project on your local machine, follow these steps:
 1. Clone the project repository:
 
     ```bash
-    https://github.com/serkanyasr/ChatAI-ChatGPT-Gemini-and-Claude.git
+    https://github.com/serkanyasr/ChatAI-with-ChatGPT-Gemini-and-Claude.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd ChatAI-ChatGPT-Gemini-and-Claude
+    cd ChatAI-with-ChatGPT-Gemini-and-Claude
     ```
 
 3. Install the required dependencies:
