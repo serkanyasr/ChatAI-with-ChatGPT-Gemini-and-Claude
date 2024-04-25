@@ -12,7 +12,7 @@ To run the project on your local machine, follow these steps:
 1. Clone the project repository:
 
     ```bash
-    git clone https://github.com/serkanyasr/ChatAI-Explorer.git
+    https://github.com/serkanyasr/ChatAI-ChatGPT-Gemini-and-Claude.git
     ```
 
 2. Navigate to the project directory:
